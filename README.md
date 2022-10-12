@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ⚠ If you are using TensorFlow with CPU, it might take some time to train the model, so if you are in a hurry, change the number of epochs or have some damn patience. Using a GPU should be fairly quick to train the model.
 
-⚠ Please 🙏 make sure to capture all the training data in fairly good lighting conditions to capture good and clean trainigndata so that the model can be as accurate as possible to recognise all the hand-signs that you train for. 
+⚠ Please 🙏 make sure to capture all the training data in fairly good lighting conditions to capture good and clean training data so that the model can be as accurate as possible to recognise all the hand-signs that you train for. 
 
 # References
 
